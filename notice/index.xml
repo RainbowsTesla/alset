@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notices on 阿尔塞特</title>
+    <link>/notice/</link>
+    <description>Recent content in Notices on 阿尔塞特</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_us</language>
+    <copyright>Copyright(C) 2019-2021 Moonrain Studio.</copyright>
+    <lastBuildDate>Thu, 22 Apr 2021 19:00:00 +0800</lastBuildDate><atom:link href="/notice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>停服公告</title>
+      <link>/notice/server_stop/</link>
+      <pubDate>Thu, 22 Apr 2021 19:00:00 +0800</pubDate>
+      
+      <guid>/notice/server_stop/</guid>
+      <description>2020.4.22 修改版 来了，爱了，挺不住了，走了。
+ 亲爱的玩家们：
+很遗憾地告诉大家，月雨团队因长期亏损，将于2021年4月19日0时停止运营Alset服务器。届时将关闭游戏服务器，玩家无法登陆游戏。
+自Alset服务器成立以来，我们一起在这里度过了无数美妙的时光。我们永远不会忘记，第一次挖到钻石的兴奋，第一次见到神庙的惊喜，第一次完成自己独一无二的建筑时的成就感，也不会忘记一人坐在苔石墙上看夕阳西下的孤独与落寞。我们从这里出发，见证了Minecraft的无限可能。在此，我们衷心感谢大家半年以来的支持与厚爱。
+停服具体事项如下：
+  2021年4月19日0时：正式停止Alset主服务器运营，关闭游戏服务器，玩家将无法登陆游戏。
+  2021年4月19日 - 2021年4月30日：处理部分未到期VIP补偿等事项。
+  2020年4月30日：停止其他Alset附属服务。
+  非常遗憾我们无法继续为各位玩家提供Alset服务器，具体补偿事项请咨询Hy_Zer或墨稚霜。
+文明的种子仍在，它将重新启动，再次开始在阿尔塞特的世界中命运莫测地进化，欢迎您继续关注。
+感谢各位的理解和支持。
+月雨运营组
+Moonrain Studio
+2021.4.18
+附件： 离别不是永别，停止不是消失</description>
+    </item>
+    
+    <item>
+      <title>停止不是消失</title>
+      <link>/notice/stop_is_not_end/</link>
+      <pubDate>Tue, 20 Apr 2021 19:03:14 +0800</pubDate>
+      
+      <guid>/notice/stop_is_not_end/</guid>
+      <description>这是一条简短的通知，没有正式的格式
+停服公告见此
+阿尔塞特和Suzuki Sakura将成为公益服
+我们一直在你们身边
+敬请期待
+月雨工作室
+2020年4月22日</description>
+    </item>
+    
+    <item>
+      <title>离别不是永别</title>
+      <link>/notice/parting_is_not_parting/</link>
+      <pubDate>Tue, 20 Apr 2021 19:03:14 +0800</pubDate>
+      
+      <guid>/notice/parting_is_not_parting/</guid>
+      <description>亲爱的玩家们：
+月雨工作室与Hy_zer（个人）的合作即将截止，曾经的阿尔塞特已经不复存在了。停服公告见此
+但这不是一个坏消息。
+在停服公告中，曾经有过这样一段话：
+ 文明的种子仍在，它将重新启动，再次开始在阿尔塞特的世界中命运莫测地进化，欢迎您继续关注。
+ 是时候让这粒种子萌发了。
+阿尔塞特即将复苏，那些尘封的记忆：朝阳初升时的鸟鸣，夕阳西下时的闲适，星河璀璨时的幽静……
+完全成为公益服的阿尔塞特和Suzuki Sakura，将把所有的一切，带回你们身边。
+敬请期待
+月雨工作室
+2020年4月22日</description>
+    </item>
+    
+  </channel>
+</rss>
